@@ -1,3 +1,10 @@
+# Ryan Gamble's first CS193 Lab
+## Favorite things about Purdue
+- Having half my credits transfer in
+- Taking entry level programming classes with an Associates in Software Development
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
